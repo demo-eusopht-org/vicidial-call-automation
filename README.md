@@ -1,0 +1,1 @@
+Vicidial is a software primarily used by call centers for managing calls. Our AI automation focuses on replacing human agents with AI-driven call features. We use Selenium to log into the account, initiate a call by clicking a button, and utilize VAPI for making the calls.
